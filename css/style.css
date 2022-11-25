@@ -86,6 +86,7 @@ h5{
 hr{
     width: 80%;
     background-color: #8aaad3;
+    border-bottom: 1px soild #15273f;
 }
 h5{
     color: #8aaad3;
